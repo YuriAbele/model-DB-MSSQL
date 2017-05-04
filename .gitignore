@@ -1,3 +1,5 @@
 /model-DB-MSSQL.sqlproj.user
 /*.dbmdl
 /*.jfm
+/bin
+/obj
